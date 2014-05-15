@@ -10,4 +10,7 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+* * I suppose the main thing I learned from this was that before you jump into coding something, you should have a plan. I find myself doing just the opposite a lot of times and then realizing I forgot something. I probably save 3-4 hours in the beginning of the proccess and lose 6-10 hours fixing all the mistakes I made in the latter. 
+* I didn't like doing it, but I found the value and will make an honest effort to use it in the future. I also think the first step in wireframing (finding the problem and a solution to it) should be done no matter what. Then, at the very least, sketching something out should be the next step–not coding.
+
+* The main question I had, and didn't really come to a strong conclusion aside from the fact that I included them, was: do you need to wireframe spots for ads? It seems important and every website that isn't a commercial sales site (i.e. a site for Nissan), will probably have external ads.
