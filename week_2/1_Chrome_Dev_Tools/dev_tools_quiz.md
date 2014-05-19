@@ -5,14 +5,14 @@
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS
-  **  The elements tab. It allows you to make edits to the current html page and its corresponding style. You can select an element and inspect it and change styles inline, or to main style.
+    * The elements tab. It allows you to make edits to the current html page and its corresponding style. You can select an element and inspect it and change styles inline, or to main style.
   * Javascript Debugging
-  ** The console tab. You can open it and start writing javascript and run commands write from there. Using the console.log command to see what's happening.
+    * The console tab. You can open it and start writing javascript and run commands write from there. Using the console.log command to see what's happening.
   * Performance Optimization 
-  ** The network tab. You can view how long items are taking to load and what elements can be fixed. If you use the network tab in combination with PageSpeed, you can maximize efficiency.
+    * The network tab. You can view how long items are taking to load and what elements can be fixed. If you use the network tab in combination with PageSpeed, you can maximize efficiency.
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
-  ** Cmd + Option + I
+  * Cmd + Option + I
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
     * #0b0f11
