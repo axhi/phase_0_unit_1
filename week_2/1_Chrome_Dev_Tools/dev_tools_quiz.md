@@ -1,6 +1,6 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
-<img src="/imgs/joey_codeschool.png" />
+<img src="./imgs/joey_codeschool.png" />
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
@@ -24,7 +24,7 @@
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
   * You can't change the text because it is part of the home_bg.gif image. You would need to change the image itself. 
 
-<img src="/imgs/screenshot-postmac.png" />
+<img src="./imgs/screenshot-postmac.png" />
 * Go to www.ticketswizard.com and analyze the page.  
   * What is the largest image on the website? 
     * top_ten_bullet.png
