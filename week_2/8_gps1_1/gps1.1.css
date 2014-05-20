@@ -1,1 +1,23 @@
 /* include your css here */
+#head{
+    text-align:center;
+    font-size:30px;
+    background:#ccc;
+    height:50px;
+}
+.header {
+    font-size:25px;
+    font-family:sans-serif;
+}
+.body {
+    width:600px;
+}
+.right-float {
+    float:right;
+    padding:10px;
+    background:green;
+}
+.block-type {
+    display:inline;
+    list-style-type:none;
+}
