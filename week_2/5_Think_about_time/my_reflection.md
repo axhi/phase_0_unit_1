@@ -1,6 +1,10 @@
 # U1.W2: Thinking About Time Reflection
 
 * What is your biggest time management challenge with during Phase 0? 
+	* The biggest challenge I am having is knowing when to stop a challenge and move onto the next. Working 40+ hours a week coupled with doing 20-30 hours of this a week and trying to manage my social life outside of that has been difficult. I have alloted time for DBC, but I end up spending too much of the larger amount of time on some specific challenges. 
 * How will you combat that? 
+	* I have set time blocks on certain challeneges but end up spending more time on aspects that I feel require more of my time within them. Receiving my check in after unit 1 in phase 0 might help me gauge how I am doing on all of this and seeing if my time is being alloted correctly. Aside from that, a less busy social calendar on the weekend in the coming weeks should definitely help me out. I have had a lot of weekends scheduled before I got into DBC so that time was not easy to manage there.
 * What techniques will you try?
+	* Time boxing is definitely something I am going to do. I want to just give myself a certain amount of time within a challenge and understand the importance of walking away after that time is spent. Meditation is a bit harder with a loud household, but I definitely want to get into that to help me focus and free my mind from work stress when I begin my DBC learning.
 * What is your overall plan for Phase 0?
+	* My plan is to continue to complete challenges one by one and try to do a challenge a day, unless there are more than 7 challenges in a unit. Also, I really want to get involved with more peer-pairing. The GPS I had was extremely helpful and the 1 hour time restraint on it really helped me put the challnege into perspective. I just plan to keep learning and to not overwhelm myself at any point, in summation.
