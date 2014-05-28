@@ -55,3 +55,14 @@ git status tells you all the files that are sitting with changes and need to be 
 - Commit locally
 	- Step 1: Make changes to a file and save
 	- Step 2: git commit -m "comment"
+
+## Release 5: Errors you encountered
+1. Error
+	- Changes not staged for commit
+2. Solution
+	- I would have to do the git add 'filename' here. I would keep forgetting.
+3. Cause (explain the error)
+	- Git was trying to commit files that it didn't know were changed. So I would need to tell it to recognize the file with git add and then I could commit. 
+
+## Release 6: Reflection 
+- This was an extremely helpful challenge. I was having a lot of issues with Git and understanding what the terminal version did and why I couldn't just use the program that is provided. While I see the value in the command line for rollbacks and other intracite details, I truly love using the little program that is provided by Git.
