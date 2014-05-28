@@ -1,4 +1,3 @@
-
 // There is a section below where you will write your code.
 // Do not alter this object here.
 
@@ -17,21 +16,36 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = { 
+  name: "Adam",
+  spouse: terah
+} // object adam with name and spoouse
 
+terah.spouse = adam; //set terah spouse to object adam
+terah.weight = 125; // changed terah's weight to 125
+delete terah.eyeColor; // deleted terah's eyec color
 
-
-
-
-
+terah.children = { // object for children with no properties
+}
+terah.children.carson = { //added child with name carson
+  name: "Carson"
+}
+terah.children.carter = { //child with name carter
+  name: "Carter"
+}
+terah.children.colton = { //child with name colton
+  name: "Colton"
+}
+adam.children = terah.children; //adam children = terah children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// I ran the code in node.js from the console and started adding items to find pass the tests, one by one. This method
+// seems to work best for me and I keep using it to solve these problems. I ran into some issues with assigning the
+// children property to terah. When I created the empty object, I kept trying to assigning the kids names inside of the
+// object I had created. This was making an error I couldn't resolve. I then, out of pure luck, tried it outside and 
+// it returned true. I looked it up and realized I was wrong in assigning it within the object, as that would do
+// almost nothing. Something I need to look out for, and I'm sure I will get better at.
 
 
 // __________________________________________
