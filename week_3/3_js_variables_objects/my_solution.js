@@ -1,10 +1,12 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
 // __________________________________________
 // Write your code below.
 
-
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["John","Tom","Eric","Mary"];
 
 
 
@@ -12,12 +14,13 @@
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+// In this challenge, I first ran the script to see where it err'd out. I didn't even look at the test
+// code because I didn't wnt to try and confuse myself. After running it I wasn't sure what I needed so,
+// I ran through the help within the DBC for objects and what have you. Then I just started filling in
+// aspects to get where I needed to be. It was a large 'trial and error' type code. This was a good way
+// to just get the hang of what is going on within the code. It was nice to write code within the test
+// as opposed to the game where it was specific and didn't really require much thought. This was a bit more
+// thought provoking.
 
 
 // __________________________________________
