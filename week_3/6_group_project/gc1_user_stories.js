@@ -19,3 +19,7 @@
 // test for mean
 // I want to take the sum of all numbers in the list, by using the test for adding all numbers together until there
 // are no numbers left. Once I have found that number, I want to divide the sum by the amount of numbers in the list.
+
+// Reflection
+// This was a difficult one. As a team, we ran into some snags and got thrown off track a few times. After that, we 
+// seemed to move pretty well. 
